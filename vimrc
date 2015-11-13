@@ -15,6 +15,7 @@ Plugin 'VundleVim/Vundle.vim' " required
 Plugin 'easymotion/vim-easymotion'
 Plugin 'Lokaltog/vim-powerLine'
 Plugin 'scrooloose/nerdtree'
+Plugin 'tpope/vim-fugitive'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
