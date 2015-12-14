@@ -4,7 +4,6 @@ syntax on
 set ruler
 set number
 let mapleader = " "
-let expandtab
 let shiftwidth=2
 let softtabstop=2
 
